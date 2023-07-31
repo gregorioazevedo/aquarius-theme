@@ -1,0 +1,21 @@
+{
+  "name": "aquarius-theme",
+  "displayName": "Aquarius Theme",
+  "description": "VS Code Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aquarius Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aquarius Theme-color-theme.json"
+      }
+    ]
+  }
+}
